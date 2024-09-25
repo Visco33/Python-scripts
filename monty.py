@@ -5,10 +5,10 @@ P1 = 1 / 500000  # Probability of Event 1 happening
 P2 = 1 / 100000  # Probability of Event 2 happening
 
 # Number of trials in each simulation
-trials = 1000000000  # 1 million trials
+trials = 1000000000  # 1 billion trials
 
 # Number of Monte Carlo simulations
-simulations = 1000000000 # Run 10,000 simulations
+simulations = 1000000000 # Run one billion simulations
 
 # Simulate the outcomes for both events
 event_1_outcomes = np.random.binomial(trials, P1, simulations)  # Simulate Event 1 for all simulations
