@@ -1,3 +1,3 @@
 # Python-scripts
 
-A collection of python scripts I have made, the majority most likely being for CryptoCurrency. 
+A collection of useful python scripts 
